@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🌐 Live Demo
 
-🔗 https://kuldeepmaurya7.github.io/Portfolio-/
+🔗 https://kuldeepmaurya7.github.io/Portfolio-
 
 ---
 
