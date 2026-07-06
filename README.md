@@ -52,7 +52,6 @@ Portfolio/
 ├── script.js
 ├── images/
 ├── assets/
-└── README.md
 ```
 
 ---
