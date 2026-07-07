@@ -65,8 +65,8 @@ Portfolio-/
 
 * 🌐 Portfolio: https://kuldeepmaurya7.github.io/Portfolio-/
 * 💻 GitHub: https://github.com/kuldeepmaurya7
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: Add your LinkedIn profile
+* 📧 Email:  kuldeepkumar987320@gmail.com
+* 💼 LinkedIn:  (https://www.linkedin.com/in/kuldeepkumar-dotnet/)
 * 📷 Instagram: https://www.instagram.com/its_kuldeep_10590
 
 ---
@@ -77,7 +77,5 @@ If you like this project, don't forget to **Star ⭐ the repository**.
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
+ 
  
